@@ -1,0 +1,15 @@
+name:
+  compact: José Júnior
+  full: José Correia da Cruz Júnior
+avatar:
+  github: https://github.com/josejunior07.png
+occupations:
+  - id: 20202370052
+    type: student
+    course: cstsi-jp  # curso-campus (formato unificado)
+    isFinished: false  # true se já concluiu, false se ainda está cursando
+addresses:
+  github: https://github.com/JoseJunior07
+  linkedin: https://www.linkedin.com/in/jose-junior07/
+  instagram: https://www.instagram.com/junioorcruz/
+  email: junior.cruz@academico.ifpb.edu.br
